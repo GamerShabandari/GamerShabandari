@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gamershabandari.github.io/cv/](https://gamershabandari.github.io/cv/)
 
-- ⚡ Fun fact **Im a licensed personal trainer and son of a former olympian**
+- ⚡ Fun fact **Im a certified personal trainer and son of a former olympian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
