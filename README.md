@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gamer</h1>
-<h3 align="center">A passionate frontend developer from Uppsala Sweden</h3>
+<h2 align="center">Բարեւ աշխարհի! 🇦🇲</h2>
+
+<h3 align="center">A passionate frontend developer from Uppsala Sweden 🇸🇪</h3>
 
 - 👨‍💻 All of my projects are available at [https://gamershabandari.github.io/cv/](https://gamershabandari.github.io/cv/)
 
