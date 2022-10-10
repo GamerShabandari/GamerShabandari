@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **Im a certified personal trainer and son of a former olympian**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
