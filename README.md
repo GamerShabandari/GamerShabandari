@@ -1,7 +1,7 @@
 
-
-<img align="center" src="https://media0.giphy.com/media/l41lLs970IkkBi6f6/giphy.gif?cid=2154d3d7pdlpclesmbb4zfv5ju8vujhkliw6ysstiw7kvejv&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-
+<p align="center">
+<img src="https://media0.giphy.com/media/l41lLs970IkkBi6f6/giphy.gif?cid=2154d3d7pdlpclesmbb4zfv5ju8vujhkliw6ysstiw7kvejv&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+</p>
 <h1 align="center">Hi 👋, I'm Gamer</h1>
 <h2 align="center">Բարեւ աշխարհի! 🇦🇲</h2>
 
